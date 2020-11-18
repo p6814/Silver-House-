@@ -59,3 +59,24 @@
     height: 100%;
     object-fit: cover;
 }
+.section{
+    width: 1140px;
+    min-height: 200px;
+    padding: 30px 15px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+.section__left{
+    background: gray;
+    min-height: 200px;
+    width: 730px;
+    padding: 50px 40px;
+}
+.section__right{
+    background: gray;
+    min-height: 200px;
+    width: 350px;
+    padding: 50px 40px;
+}
