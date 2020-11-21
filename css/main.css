@@ -80,3 +80,14 @@
     width: 350px;
     padding: 50px 40px;
 }
+.footer{
+    width: 1140px;
+    min-height: 50px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.footer__content{
+    width: 100%;
+    padding: 15px 40px;
+    background: gray;
+}
